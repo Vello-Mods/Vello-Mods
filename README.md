@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Vello-Mods/Vello-Mods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <a href="https://discord.gg/dAFWArrkww" target="_blank"> DISCORD
+- <a href="https://www.vellomods.com/" target="_blank"> Tebex PAGE
+- <a href="https://forum.cfx.re/u/vello-mods/summary" target="_blank"> CFX PAGE
+- <a href="https://www.youtube.com/@VelloModifications" target="_blank"> YOUTUBE PAGE
 
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=Vello-Mods&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
